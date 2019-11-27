@@ -2,4 +2,5 @@
 
 Courtesy:
 [Repo 1](https://github.com/shaswat-indian/DM-Lab)
-[Repo 1](https://github.com/vishalprabha/Datamining-Lab)
+<br>
+[Repo 2](https://github.com/vishalprabha/Datamining-Lab)
